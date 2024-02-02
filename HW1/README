@@ -1,5 +1,14 @@
-script.py is a script for automatically running innovus with different
+script.py is a script for automatically running Innovus with different
 parameter. It will generate the log file in csv format.
+
+Following are the files that script need.
+
+apr.tcl
+apr_orig.tcl(just avoiding apr.tcl is destroyed, it is just a copy of apr.tcl)
+summary.rpt
+timing.rpt
+drc.rpt
+result.csv(for recording result)
 
 Just type the following command to run the script
 
