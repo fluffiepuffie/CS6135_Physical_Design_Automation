@@ -1,0 +1,6 @@
+script.py is a script for automatically running innovus with different
+parameter. It will generate the log file in csv format.
+
+Just type the following command to run the script
+
+	python script.py
