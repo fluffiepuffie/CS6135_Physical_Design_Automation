@@ -1,0 +1,30 @@
+public1
+real	0m0.083s
+user	0m0.073s
+sys	0m0.005s
+
+public2
+real	0m45.150s
+user	0m45.015s
+sys	0m0.125s
+
+public3
+real	4m50.465s
+user	4m49.836s
+sys	0m0.542s
+
+public4
+real	0m2.466s
+user	0m2.334s
+sys	0m0.037s
+
+public5
+real	1m34.976s
+user	1m34.540s
+sys	0m0.413s
+
+public6
+real	4m51.756s
+user	4m50.438s
+sys	0m1.113s
+

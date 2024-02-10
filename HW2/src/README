@@ -1,0 +1,24 @@
+--How to Compile
+  Go in "HW2/src/" directory, enter the following command:
+  $ make
+  An executalbe file "hw2" will be generated in "HW2/bin" directory
+
+  If you want to delete executable file, just enter the following command in the "HW2/src/" directory
+  $ make clean
+
+--How to test and verify
+  There are two python files in "HW2/src/" directory, you can enter the following command to execute program with the 6 test cases in "HW2/testcase/" directory.   
+  $ python testTime.py
+  This command will also generate the 6 corresponding output files in "HW2/output" directory, and a file named time.txt in "HW2/src/" directory. "time.txt" file will have the information about runtime the program used.
+
+  Another python files is used to check whether the output file is legal or not. It will envoke verify file under "HW2/verifier/verify" with 6 outputfiles in "HW2/output" directory
+  $ python testVerify.py
+  This command will also generate a file name "verify.txt" under "HW2/src" directory, this file will have the result of verification.
+
+--How to Run
+  Usage:(under "HW2/src" directory)
+  ../bin/hw2 ../testcase/<txt file> ../output/<output file>
+
+  e.g.
+  enter following command in "HW2/src" directory:
+  ../bin/hw2 ../testcase/public1.txt ../output/public1.out
