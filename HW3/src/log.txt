@@ -1,0 +1,23 @@
+../bin/hw3 ../testcase/public2.txt ../output/public2.floorplan
+ End Input: 108
+Debug: start initFloorPlan()
+Debug: end initFloorPlan()
+ End Initial floorplan 45
+ End findBest floorplan 1780
+ End writFile 1
+M3 left: 422 bottom: 420 top: 1220 right: 822
+M6 left: 1380 bottom: 277 top: 752 right: 1828
+M1 left: 1944 bottom: 1223 top: 1798 right: 2312
+M11 left: 636 bottom: 346 top: 846 right: 996
+M4 left: 702 bottom: 1375 top: 1675 right: 1290
+M9 left: 963 bottom: 690 top: 1190 right: 1283
+M5 left: 797 bottom: 341 top: 795 right: 1097
+M0 left: 1387 bottom: 465 top: 865 right: 1643
+M13 left: 957 bottom: 327 top: 759 right: 1182
+M14 left: 211 bottom: 224 top: 524 right: 511
+M12 left: 1271 bottom: 739 top: 1122 right: 1471
+M10 left: 1159 bottom: 545 top: 905 right: 1339
+M2 left: 1608 bottom: 236 top: 454 right: 1903
+M7 left: 1353 bottom: 978 top: 1314 right: 1528
+M15 left: 893 bottom: 335 top: 655 right: 1053
+M8 left: 1079 bottom: 60 top: 320 right: 1209

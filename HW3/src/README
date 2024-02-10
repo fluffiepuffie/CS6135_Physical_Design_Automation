@@ -1,0 +1,12 @@
+--How to Compile
+    In HW3/src, enter the following command:
+    $make
+    An executable file named "hw3" will then be in directory "HW3/bin"
+
+    Enter the following command and the executable file "hw3" in "HW3/bin" will be removed
+    $make clean
+--How to Run
+    enter the command <executable file> <input testcase> <outputfile>
+    e.g.
+    (In src directory)
+    $../bin/hw3 ../testcase/public1.txt ../output/public2.floorplan
